@@ -27,8 +27,8 @@ https://micflic.gumroad.com/l/passai
 Download
 
 Download the latest version from the Releases section.
-
 https://github.com/premiumdrop/PassAI/releases/tag/V1.0
+<img width="1087" height="695" alt="AddPassword" src="https://github.com/user-attachments/assets/d21768c3-e6f6-4ce2-a4a2-e2bab8ad07de" />
 
 Security
 All data is stored locally on your device
