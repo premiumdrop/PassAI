@@ -1,7 +1,10 @@
 # PassAI
 Lightweight offline password manager with local encrypted storage and PIN unlock.
+
 <img width="1102" height="709" alt="MainGui" src="https://github.com/user-attachments/assets/f5d4cc82-9c20-42a7-b22e-d34c9de31a18" />
+
 PassAI Light is a simple desktop app designed for users who want full control over their data without relying on cloud services or accounts.
+The interface is inspired by a macOS-style design, but the application is currently available for Windows only.
 
 Features
 Store up to 3 passwords (Lite version)
@@ -24,6 +27,8 @@ https://micflic.gumroad.com/l/passai
 Download
 
 Download the latest version from the Releases section.
+
+https://github.com/premiumdrop/PassAI/releases/tag/V1.0
 
 Security
 All data is stored locally on your device
